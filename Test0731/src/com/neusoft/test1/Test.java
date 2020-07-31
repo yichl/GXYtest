@@ -9,7 +9,7 @@ public class Test {
 		System.out.println(a);
 
 		int c = 200;
-		System.out.println(c);
+		System.out.println(c); 
 
 		int b = 200;
 		System.out.println(b);
